@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Product 1",
+    "price": 19.99,
+    "desc": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+    "imageUrl": "https://media.istockphoto.com/id/1130470118/vi/vec-to/biểu-tượng-xe-đạp-trên-nền-trắng.jpg?s=1024x1024&w=is&k=20&c=ud3yUfv_Wz7fkIV98k6QBqvziQ9BDzPnhLmfNA_fFxo="
+  },
+  {
+    "id": 2,
+    "title": "Product 2",
+    "price": 29.99,
+    "desc": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+    "imageUrl": "https://media.istockphoto.com/id/1130470118/vi/vec-to/biểu-tượng-xe-đạp-trên-nền-trắng.jpg?s=1024x1024&w=is&k=20&c=ud3yUfv_Wz7fkIV98k6QBqvziQ9BDzPnhLmfNA_fFxo="
+  },
+  {
+    "id": 3,
+    "title": "Product 3",
+    "price": 39.99,
+    "desc": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+    "imageUrl": "https://media.istockphoto.com/id/1130470118/vi/vec-to/biểu-tượng-xe-đạp-trên-nền-trắng.jpg?s=1024x1024&w=is&k=20&c=ud3yUfv_Wz7fkIV98k6QBqvziQ9BDzPnhLmfNA_fFxo="
+  },
+  {
+    "id": 4,
+    "title": "Product 4",
+    "price": 49.99,
+    "desc": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+    "imageUrl": "https://media.istockphoto.com/id/1130470118/vi/vec-to/biểu-tượng-xe-đạp-trên-nền-trắng.jpg?s=1024x1024&w=is&k=20&c=ud3yUfv_Wz7fkIV98k6QBqvziQ9BDzPnhLmfNA_fFxo="
+  }
+]
